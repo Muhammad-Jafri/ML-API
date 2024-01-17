@@ -1,0 +1,2 @@
+we gonna train a linear regression model in the ipynb file then we will save the weights in another textfile.
+in the py file we gonna load up the weights and pass the input using command like something like "python3 Model.py input". We can save the output in some file and the server can read that file and send it back to frontend for it to be rendered. let me know how does it sound. 
